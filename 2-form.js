@@ -1,2 +1,2 @@
-import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                      */console.log("Holla");
+import"./assets/modulepreload-polyfill-B5Qt9EMX.js";console.log("Holla");
 //# sourceMappingURL=2-form.js.map
